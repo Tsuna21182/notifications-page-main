@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  /*Fonts*/
+
+  --font-display: "Plus Jakarta Sans", sans-serif;
+}
